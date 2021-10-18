@@ -1,0 +1,7 @@
+<script>alert(123);</script>
+<script>alert("XSS");</script>
+<script>alert(123)</script>
+<script>alert("hellox worldss");</script>
+<script>alert(�XSS�)</script> 
+<script>alert(�XSS�);</script>
+<script>alert(�XSS�)</script>
